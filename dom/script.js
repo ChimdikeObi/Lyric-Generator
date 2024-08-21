@@ -12,7 +12,7 @@ const quotes = [{
    person: ` Billie Eilish`
 }, {
    lyric: '"Lovely to sit between comfort and chaos."',
-   person: ` Lizzie Alphine`
+   person: ` Lizzie McAlphine`
 }, {
    lyric: '"We had a soft life beneath I believe it. We just gave up reading the signs."',
    person: ` Holly Humberstone`
